@@ -1,5 +1,10 @@
 # Analise de dados
-Um projeto de analise de dados em python com objeto de receber um banco de dados, tratar valores errados ou faltantes e mostrar varios tipos de tabela com os valores do banco de dados
+# Um projeto de analise de dados em python com objeto de receber um banco de dados, tratar valores errados ou faltantes e mostrar varios tipos de tabela com os valores do banco de dados
+
+
+# CODE
+
+
 
 
 #Importação de bibliotecas 
